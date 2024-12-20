@@ -1,6 +1,6 @@
 ## Project Premise 
 
-I've been contracted as a data scientist for Johns Hopkins Hospital. They've asked to me to create a machine learning model, which could 
+Imagine you've been contracted as a data scientist for Johns Hopkins Hospital. They've asked to you to create a machine learning model, which could 
 predict which patients are likely to get a stroke because being able to determine which patients have 
 high stroke risk will allow your doctors to advise them and their families on how to act in case of an emergency.
 
